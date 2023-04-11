@@ -1,0 +1,11 @@
+#ImageDehazer requirements
+
+#Usage pip install -r requirements.txt
+
+opencv-python>=4.7.0.72
+
+numpy>=1.24.2
+
+scipy>=1.10.1 
+
+image-dehazer>=0.0.9
